@@ -562,7 +562,7 @@ strong {
 }
 
 .contact-form button[type='submit'] {
-  background: var(--dark-color);
+  background: var(--white-color);
   border: none;
   border-radius: 100px;
   color: var(--white-color);
