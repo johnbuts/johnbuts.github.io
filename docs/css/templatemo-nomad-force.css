@@ -18,6 +18,7 @@ https://templatemo.com/tm-567-nomad-force
   --text-secondary-white-color:   #d6d8da;
   --title-color:                  #d6d8da;
   --p-color:                      #d6d8da;
+  --black-color:                  #000000;
 
   --body-font-family:           'Noto Sans JP', sans-serif;
 
@@ -562,7 +563,7 @@ strong {
 }
 
 .contact-form button[type='submit'] {
-  background: var(--white-color);
+  background: var(--dark-color);
   border: none;
   border-radius: 100px;
   color: var(--white-color);
