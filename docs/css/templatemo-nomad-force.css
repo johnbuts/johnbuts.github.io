@@ -43,7 +43,7 @@ html {
 }
 
 body {
-    background: var(--white-color);
+    background: var(--dark-color);
     font-family: var(--body-font-family);    
     position: relative;
 }
