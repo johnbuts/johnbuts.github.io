@@ -463,12 +463,14 @@ strong {
 }
 
 .news-title-link {
-  color: var(--title-color);
+  color: #3b5ae6;
   display: inline-block;
+  text-decoration: underline;
 }
 
 .news-title-link:hover {
   color: var(--dark-color);
+  text-decoration: underline;
 }
 
 .portfolio-image,
