@@ -67,6 +67,10 @@ def start_thread():
 
     return jsonify({"message": new_message}), 201
 
+@app.route('/')
+def hello_world():
+    return 'Hello World'
+
 # Run the app
 if __name__ == '__main__':
     app.run(debug=True)
